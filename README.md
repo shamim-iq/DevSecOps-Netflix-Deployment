@@ -10,7 +10,13 @@
 <br />
 
 <div align="center">
-  <img src="./public/assets/home-page.png" alt="Logo" width="100%" height="100%">
+  <img src="./public/assets/Netflix-home.PNG" alt="Logo" width="100%" height="100%">
+  <p align="center">Home Page</p>
+</div>
+<br />
+
+<div align="center">
+  <img src="./public/assets/netflix-lists.PNG" alt="Logo" width="100%" height="100%">
   <p align="center">Home Page</p>
 </div>
 
